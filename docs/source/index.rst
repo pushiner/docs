@@ -11,13 +11,12 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   installation
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`installation`
 * :ref:`modindex`
 * :ref:`search`
 
