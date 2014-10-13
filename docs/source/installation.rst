@@ -4,7 +4,7 @@ Installation
 WEB PANEL
 _________
 
-SERVER api
+SERVER API
 __________
 
 SERVER PUBLISHER
