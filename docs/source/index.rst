@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    installation
+   api
 
 Indices and tables
 ==================
